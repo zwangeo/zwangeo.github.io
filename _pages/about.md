@@ -10,7 +10,7 @@ redirect_from:
 Zhili WANG is currently a Ph.D. student in Data Science and Analytics at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Lei CHEN](https://www.cse.ust.hk/~leichen/), Prof. [Can YANG](https://sites.google.com/site/eeyangc/), and Prof. [Wei WANG](https://home.cse.ust.hk/~weiwa/). Prior to this, she received her Master degree in Big Data Technology at HKUST, and her Bachelor degree in Spatial Information and Digitalized Technology at University of Electronic Science and Technology of China (UESTC).
 
 
-**CV**: [CV](https://github.com/zwangeo/homepage/blob/master/assets/CV_WANGZhili_HKUST.pdf) / **Github**: [https://github.com/zwangeo](https://github.com/zwangeo) / **Phone**: + 86 18297816105; +852 66821284 / **Email**: [zwangeo@connect.ust.hk](zwangeo@connect.ust.hk) / **Wechat**: zwangeo
+**CV**: [CV](../assets/CV_WANGZhili_HKUST.pdf) / **Github**: [https://github.com/zwangeo](https://github.com/zwangeo) / **Phone**: + 86 18297816105; +852 66821284 / **Email**: [zwangeo@connect.ust.hk](zwangeo@connect.ust.hk) / **Wechat**: zwangeo
  
                         
 Research Interests
