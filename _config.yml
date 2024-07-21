@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhili WANG's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhili WANG"
 description              : &description "personal description"
 url                      : https://zwangeo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Zhili WANG"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ HKUST"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong SAR, China"
+  employer         : "The Hong Kong University of Science and Technology (HKUST)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zwangeo@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
