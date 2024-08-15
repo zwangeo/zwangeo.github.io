@@ -20,8 +20,8 @@ Research Interests
 
 Selected Publications
 ======
-* Jialiang WANG, Shimin DI, Hanmo LIU, **Zhili WANG**, Jiachuan WANG, Lei CHEN, Xiaofang ZHOU. [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://www.arxiv.org/abs/2408.06717). 
-* **Zhili WANG**, Shimin DI, Lei CHEN, Xiaofang ZHOU. [Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks](https://arxiv.org/abs/2308.06960). *Preprint*
+* Jialiang WANG, Shimin DI, Hanmo LIU, **Zhili WANG**, Jiachuan WANG, Lei CHEN, Xiaofang ZHOU. [Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://www.arxiv.org/abs/2408.06717). *Preprint*
+* **Zhili WANG**, Shimin DI, Lei CHEN, Xiaofang ZHOU. [Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks](https://arxiv.org/abs/2308.06960). *40TH IEEE International Conference on Data Engineering* (*ICDE 2024, CCF-A*)
 * **Zhili WANG**, Shimin DI, Lei CHEN. [A Message Passing Neural Network Space for Better Capturing Data-dependent Receptive Fields](https://dl.acm.org/doi/10.1145/3580305.3599243). *29TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (*SIGKDD 2023, CCF-A*)
 * **Zhili WANG**, Shimin DI, Lei CHEN. [AutoGEL: An Automated Graph Neural Network with Explicit Link Information](https://arxiv.org/abs/2112.01064). *35TH Advances in Neural Information Processing Systems* (*NeurIPS 2021, CCF-A*)
 
